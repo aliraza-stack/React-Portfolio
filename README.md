@@ -1,4 +1,4 @@
-# Tunis Personal Portfolio React Template
+# Muhammad Ali Raza Personal Portfolio React Template
 
 ## Description
 
@@ -27,7 +27,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration (vue-cli)
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
