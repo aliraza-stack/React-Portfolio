@@ -1,6 +1,7 @@
 {
   "name": "muhammad-ali-raza",
   "version": "0.0.1",
+  "homepage": "https://github.com/Next0nHub/NextonHub.github.io.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -23,6 +24,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,6 +50,7 @@
     ]
   },
   "devDependencies": {
-    "direction-reveal": "^2.0.2"
+    "direction-reveal": "^2.0.2",
+    "gh-pages": "^4.0.0"
   }
 }
