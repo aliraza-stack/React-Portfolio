@@ -1,7 +1,7 @@
 {
   "name": "muhammad-ali-raza",
   "version": "0.0.1",
-  "homepage": "https://github.com/Next0nHub/NextonHub.github.io.git",
+  "homepage": "https://github.com/Next0nHub/NextonHub.github.io/src/App.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
