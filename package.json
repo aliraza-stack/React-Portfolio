@@ -1,7 +1,7 @@
 {
   "name": "muhammad-ali-raza",
   "version": "0.0.1",
-  "homepage": "https://nextonhub.me",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
