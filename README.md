@@ -27,3 +27,4 @@ npm run build
 ```
 npm run lint
 ```
+# Complete documentation of the project is available.
