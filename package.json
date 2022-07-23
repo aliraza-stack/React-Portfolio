@@ -1,7 +1,6 @@
 {
-  "name": "muhammad-ali-raza",
+  "name": "muhammad-aliraza",
   "version": "0.0.1",
-  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -16,7 +15,7 @@
     "react-hook-form": "^7.6.3",
     "react-modal": "^3.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "4.0.3",
     "react-slick": "^0.28.1",
     "react-tabs": "^3.2.2",
     "react-transition-group": "^4.4.2",
@@ -24,7 +23,6 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -49,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "direction-reveal": "^2.0.2",
-    "gh-pages": "^4.0.0"
+    "direction-reveal": "^2.0.2"
   }
 }
